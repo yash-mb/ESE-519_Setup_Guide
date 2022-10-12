@@ -105,7 +105,10 @@ This is a detailed guide for setting up SDK on Windows PC for RP2040 microcontro
      ![image](https://user-images.githubusercontent.com/99275864/195459147-d32f23f1-a398-4f5b-898e-9d5e7517691f.png)
      
      
- 14. 
+ 14. Go to the files and select open folder. Then select the pico-examples folder. A message will pop-up to configure the project. Select 'Yes'. Click on Build button 
+     at the bottom of the screen and select "GCC for arm-none-eabi" compiler.
+     
+ 15. Connect your RP2040 board to the PC and copy paste the .uf2 file for hello_world in it. 
 
 
 
